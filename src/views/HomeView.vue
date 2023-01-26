@@ -1,6 +1,6 @@
 <template>
   <div class="home text-center">
-    <repo-card class="mt-10"></repo-card>
+    <repo-card></repo-card>
   </div>
 </template>
 
